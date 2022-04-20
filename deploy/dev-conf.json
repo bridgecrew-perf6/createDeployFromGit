@@ -1,3 +1,23 @@
 {
-    "test": "deploy"
+    "xlDeployConfigurationServerName": "",
+    "continueIfStepFails": false,
+    "numberOfContinueRetrials": 0,
+    "pollingInterval": 10,
+    "numberOfPollingTrials": 0,
+    "displayStepLogs": true,
+    "retryCounter": 
+        {"currentContinueRetrial":0, "currentPollingTrial":0},
+    "connectionRetries": 10,
+    "deploymentApplication":"",
+    "deploymentVersion":"",
+    "deploymentPackage":"",
+    "deploymentEnvironment":"",
+    "orchestrators":"",
+    "deployedApplicationProperties":"",
+    "overrideDeployedProps":"",
+    "rollbackOnFailure": true,
+    "rollbackOnAbort": true,
+    "cancelOnError": true,
+    "failOnPause": true,
+    "keepPreviousOutputPropertiesOnRetry": true
 }
