@@ -1,5 +1,5 @@
 {
-    "xlDeployConfigurationServerName": "",
+    "xlDeployConfigurationServerName": "Localhost",
     "continueIfStepFails": false,
     "numberOfContinueRetrials": 0,
     "pollingInterval": 10,
@@ -8,10 +8,10 @@
     "retryCounter": 
         {"currentContinueRetrial":0, "currentPollingTrial":0},
     "connectionRetries": 10,
-    "deploymentApplication":"",
-    "deploymentVersion":"",
-    "deploymentPackage":"",
-    "deploymentEnvironment":"",
+    "deploymentApplication":"Applications/DemoWebapp/DemoWebApp",
+    "deploymentVersion":"5.3.0",
+    "deploymentPackage":"Applications/DemoWebapp/DemoWebApp/5.3.0",
+    "deploymentEnvironment":"Environments/Localhost/Dev/Dev",
     "orchestrators":"",
     "deployedApplicationProperties":"",
     "overrideDeployedProps":"",
