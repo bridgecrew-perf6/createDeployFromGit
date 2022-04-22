@@ -11,7 +11,7 @@
     "deploymentApplication":"Applications/DemoWebapp/DemoWebApp",
     "deploymentVersion":"5.3.0",
     "deploymentPackage":"Applications/DemoWebapp/DemoWebApp/5.9.0",
-    "deploymentEnvironment":"Environments/Localhost/Dev/Dev",
+    "deploymentEnvironment":"Environments/Localhost/Test/Test",
     "orchestrators":"",
     "deployedApplicationProperties":"",
     "overrideDeployedProps":"",
